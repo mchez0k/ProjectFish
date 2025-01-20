@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using ProjectFish.Movement;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour, IMovement
