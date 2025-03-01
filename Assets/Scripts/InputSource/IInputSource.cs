@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ProjectFish.Movement
+namespace ProjectFish.InputSource
 {
     public interface IInputSource
     {
